@@ -29,7 +29,7 @@ Latest commit 30aa458 2 days ago
  1 contributor
 68 lines (35 sloc)  4.24 KB
    
-### Hi there, I'm Jayant!! 👋
+### Hi there, I'm Younus Ahmad!! 👋
 ## I'm a Third year Computer Engineering Student at Pune Institute Of Computer Technology
 ![](https://komarev.com/ghpvc/?username=Younus Ahmad)
 
