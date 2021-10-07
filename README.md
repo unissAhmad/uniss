@@ -30,7 +30,7 @@ Latest commit 30aa458 2 days ago
 68 lines (35 sloc)  4.24 KB
    
 ### Hi there, I'm Younus Ahmad!! 👋
-## I'm a Third year Computer Engineering Student at Pune Institute Of Computer Technology
+## I'm a Third year Information Technology student
 ![](https://komarev.com/ghpvc/?username=Younus Ahmad)
 
 
@@ -45,8 +45,8 @@ Latest commit 30aa458 2 days ago
 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/Younus Ahmad/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/jayant_khandebharad/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.linkedin.com/in/uniss/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/uniss.js/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 	
@@ -71,20 +71,20 @@ Latest commit 30aa458 2 days ago
 	
 ### Follow me on:
 
-<a href="https://www.hackerrank.com/jntkhandebharad" ><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
-<a href="https://www.codechef.com/users/jayantkhd" ><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
-<a href="https://codeforces.com/profile/jayantkhd" ><img src="https://github.com/XCPCIO/Codeforces-Analytics/blob/main/public/favicon-16x16.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
+<a href="https://www.hackerrank.com/#" ><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
+<a href="https://www.codechef.com/users/#" ><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
+<a href="https://codeforces.com/profile/#" ><img src="https://github.com/XCPCIO/Codeforces-Analytics/blob/main/public/favicon-16x16.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
 
 <br />
 <br/>
 
 
 
-  <img align="left" alt="Jayant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Younus Ahmad&show_icons=true&hide_border=true" />
+  <img align="left" alt="Uniss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=unissAhmad&show_icons=true&hide_border=true" />
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Younus Ahmad)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=#)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Younus Ahmad&layout=compact)](https://github.com/Younus Ahmad/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unissAhmad&layout=compact)](https://github.com/unissAhmad/github-readme-stats)
 
   
 NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
