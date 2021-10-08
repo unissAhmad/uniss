@@ -1,37 +1,6 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@unissAhmad 
-This repository has been archived by the owner. It is now read-only.
-Younus Ahmad
-/
-Younus Ahmad
-Public archive
-1
-12
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Younus Ahmad/README.md
-@Younus Ahmad
-Younus Ahmad Update README.md
-Latest commit 30aa458 2 days ago
- History
- 1 contributor
-68 lines (35 sloc)  4.24 KB
-   
 ### Hi there, I'm Younus Ahmad!! 👋
 ## I'm a Third year Information Technology student
-![](https://komarev.com/ghpvc/?username=Younus Ahmad)
+<!-- !(https://komarev.com/ghpvc/?username=YounusAhmad) -->
 
 
 
