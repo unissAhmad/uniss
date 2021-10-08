@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning as much as I can.
 - 👯 I’m looking to collaborate for making quality projects.
-- 🥅 2021 Goals:to become full stack web development expert and contribute in open source projects.
+- 🥅 2021 Goals:to become full stack web developer and contribute in open source projects.
 
 
 
@@ -49,10 +49,11 @@
 
 
 
+
   <img align="left" alt="Uniss's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=unissAhmad&show_icons=true&hide_border=true" />
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=#)](https://git.io/streak-stats)
-  
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=#)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unissAhmad)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unissAhmad&layout=compact)](https://github.com/unissAhmad/github-readme-stats)
 
   
