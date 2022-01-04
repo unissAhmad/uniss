@@ -1,7 +1,10 @@
-### Hi there, I'm Younus Ahmad!! 👋
+### Hi there, I'm Younus Ahmad! 👋
+## My nickname is UNiss
 ## I'm a Third year Information Technology student
 <!-- !(https://komarev.com/ghpvc/?username=YounusAhmad) -->
 
+## 🚀 About Me
+I'm a MERN stack developer
 
 ## Current status
 👩‍💻 I'm currently working on Online notes taking app in MERN stack
@@ -19,14 +22,10 @@
 ⚡️ Encryption is based on prime numbers
 
 
-
-
-
-
-
-### Connect with me:
-<a href="https://www.linkedin.com/in/uniss/"><img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/uniss.js/?utm_medium=copy_link"><img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+## 🔗 Connect with me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uniss/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/u_nis_s)
+[![instagram](https://img.shields.io/badge/instagram-3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uniss.js/)
 
 <br />
 	
@@ -44,8 +43,8 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="26" />
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="26" />
+<!--   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="26" />
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="26" /> -->
   <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="26px" />
 <br />
 	
@@ -68,7 +67,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unissAhmad&layout=compact)](https://github.com/unissAhmad/github-readme-stats)
 
   
-NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.
 
 
 
