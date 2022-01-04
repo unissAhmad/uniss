@@ -3,11 +3,22 @@
 <!-- !(https://komarev.com/ghpvc/?username=YounusAhmad) -->
 
 
+## Current status
+👩‍💻 I'm currently working on Online notes taking app in MERN stack
+
+🧠 I'm currently learning node.js
+
+👯‍♀️ I'm looking to collaborate on Chatting app in MERN stack 
+
+🤔 I'm looking for help with Socket.io
+
+💬 Ask me about javascript
+
+📫 mail me on uniss.js@gmail.com to reach me
+
+⚡️ Encryption is based on prime numbers
 
 
-- 🌱 I’m currently learning as much as I can.
-- 👯 I’m looking to collaborate for making quality projects.
-- 🥅 2021 Goals:to become full stack web developer and contribute in open source projects.
 
 
 
@@ -67,7 +78,7 @@ NOTE: Top Languages does not indicate my skill level or anything like that, it's
 
 
 
-© 2021 GitHub, Inc.
+© 2022 GitHub, Inc.
 Terms
 Privacy
 Security
