@@ -1,12 +1,12 @@
-### Hi there, I'm Younus Ahmad! 👋
-## My nickname is UNiss
-## I'm a Third year Information Technology student
+Hello there, I'm <b> Younus Ahmad! </b>👋<br />
+My nickname is <b> UNiss</b><br/>
+ I'm a Third year Information Technology student
 <!-- !(https://komarev.com/ghpvc/?username=YounusAhmad) -->
 
-## 🚀 About Me
-I'm a MERN stack developer
+🚀 <i> About Me</i><br/>
+I'm a <b> MERN </b> stack developer<br />
 
-## Current status
+Current status<br/>
 👩‍💻 I'm currently working on Online notes taking app in MERN stack
 
 🧠 I'm currently learning node.js
@@ -22,7 +22,7 @@ I'm a MERN stack developer
 ⚡️ Encryption is based on prime numbers
 
 
-## 🔗 Connect with me:
+🔗 Connect with me: <br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uniss/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/u_nis_s)
 [![instagram](https://img.shields.io/badge/instagram-3f729b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uniss.js/)
