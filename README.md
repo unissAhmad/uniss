@@ -40,7 +40,7 @@ current status<br/>
 <img title="React.js" align="left" alt="React" width="26px" src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" />
 <img title="Node.js" align="left" alt="Node.js" width="26px" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" />
 <img title="MongoDB" align="left" alt="MongoDB" width="26px" src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" />
-<img title="Git" align="left" alt="Git" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bjpVKHPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8ogqpfkvqqpyfbs3w6p7.png" />
+<img title="Git" align="left" alt="Git" width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--bjpVKHPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8ogqpfkvqqpyfbs3w6p7.png" />
 <img align="left" alt="GitHub" width="26px" src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" />
 <!--   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="26" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="26" /> -->
