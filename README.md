@@ -1,28 +1,26 @@
-Hello there, I'm <b> Younus Ahmad! </b>👋<br />
-My nickname is <b> UNiss</b><br/>
- I'm a Third year Information Technology student
-<!-- !(https://komarev.com/ghpvc/?username=YounusAhmad) -->
+hello there, i'm <b> u niss! </b>👋<br />
 
-🚀 <i> About Me</i><br/>
-I'm a <b> MERN </b> stack developer<br />
+ i am the profesesional MERN stack developer
+
+ i code in javascript because i'm in love with it
+<!-- !(https://komarev.com/ghpvc/?username=YounusAhmad) -->
  
  ​![](https://komarev.com/ghpvc/?username=unissAhmad)
 
-
 Current status<br/>
-👩‍💻 I'm currently working on Online notes taking app in MERN stack
+👩‍💻 i'm currently working as the react developer,
 
-🧠 I'm currently learning node.js
+🧠 switching to typescript
 
-👯‍♀️ I'm looking to collaborate on Chatting app in MERN stack 
+👯‍♀️ i learn something new everyday
 
-🤔 I'm looking for help with Socket.io
+🤔 i help myself by a lot of research almost everyday about everything i have learnt sofar
 
-💬 Ask me about javascript
+💬 ask me anything about javascript, either i answer you or learn it
 
-📫 mail me on uniss.js@gmail.com to reach me
+📫 mail me on contact@uniss.in to reach me
 
-⚡️ Encryption is based on prime numbers
+⚡️ apples have a lot of varieties :)
 
 
 🔗 Connect with me: <br/>
@@ -33,7 +31,7 @@ Current status<br/>
 <br />
 	
 
-### Languages and Tools:
+### languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -51,7 +49,7 @@ Current status<br/>
   <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="26px" />
 <br />
 	
-### Follow me on:
+### connect with me:
 
 <a href="https://www.hackerrank.com/#" ><img src="https://user-images.githubusercontent.com/17762967/42728663-26ebdb04-87dd-11e8-928f-fb01479a2ce1.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
 <a href="https://www.codechef.com/users/#" ><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" align="left" alt="| Hackerrank" width="22px" height = "22px" /></a>
