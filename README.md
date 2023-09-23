@@ -33,7 +33,7 @@ current status<br/>
 
 ### languages and Tools:
 
-<div style="display=flex; align-items = "center"">
+<div style="display:flex; align-items: "center;">
 	<img title="Visul studio code" align="left" alt="Visual Studio Code" width="100px" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" />
 <img title="HTML5" align="left" alt="HTML5" width="100px" src="https://t4.ftcdn.net/jpg/00/75/92/23/360_F_75922341_EQ5ir4801xHK00ysm5YhZ8nta9jGjNto.jpg" />
 <img title="CSS3" align="left" alt="CSS3" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
