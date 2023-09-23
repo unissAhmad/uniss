@@ -7,7 +7,7 @@ hello there, i'm <b> u niss! </b>👋<br />
  
  ​![](https://komarev.com/ghpvc/?username=unissAhmad)
 
-Current status<br/>
+current status<br/>
 👩‍💻 i'm currently working as the react developer,
 
 🧠 switching to typescript
@@ -34,7 +34,7 @@ Current status<br/>
 ### languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://t4.ftcdn.net/jpg/00/75/92/23/360_F_75922341_EQ5ir4801xHK00ysm5YhZ8nta9jGjNto.jpg" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   
