@@ -33,7 +33,8 @@ current status<br/>
 
 ### languages and Tools:
 
-<img title="Visul studio code" align="left" alt="Visual Studio Code" width="100px" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" />
+<div style="display=flex; align-items = "center"">
+	<img title="Visul studio code" align="left" alt="Visual Studio Code" width="100px" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" />
 <img title="HTML5" align="left" alt="HTML5" width="100px" src="https://t4.ftcdn.net/jpg/00/75/92/23/360_F_75922341_EQ5ir4801xHK00ysm5YhZ8nta9jGjNto.jpg" />
 <img title="CSS3" align="left" alt="CSS3" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img title="javascript" align="left" alt="JavaScript" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
@@ -45,6 +46,7 @@ current status<br/>
 <!--   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="26" />
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="26" /> -->
   <img title="Redux" alt="redux" src="https://cdn.zapier.com/storage/blog/4ec8fc7dc3a75758a3913bab9e5a4fd8_2.500x278.png" width="100px" />
+</div>
 <br />
 	
 ### connect with me:
