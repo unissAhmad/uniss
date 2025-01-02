@@ -13,6 +13,6 @@ hello there, i'm u niss! 👋<br><br>i am the profesesional MERN stack developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=unissAhmad&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=unissAhmad&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=unissAhmad&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
